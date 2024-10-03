@@ -310,7 +310,7 @@ function getTheme({ theme, name }) {
           "storage.type.java",
         ],
         settings: {
-          foreground: hex(color.fg.default),
+          foreground: hex #ff6684,
         },
       },
       {
